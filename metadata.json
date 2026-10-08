@@ -1,0 +1,6 @@
+{
+  "name": "Formulir SOP Recall PT Indo Sultan Jaya",
+  "description": "Generator dan Pengelola Google Form berdasarkan SOP Penarikan Produk dan Mock Recall PT Indo Sultan Jaya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
